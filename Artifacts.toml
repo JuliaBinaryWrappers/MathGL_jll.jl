@@ -1,0 +1,38 @@
+[[MathGL]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e7ba060ebf28f0065df0d7aa22ab6bf2b8f7c696"
+libc = "glibc"
+os = "linux"
+
+    [[MathGL.download]]
+    sha256 = "37e3c48d34c010378407a6b6944b166398b75a8a9138f51728138406eb195ef0"
+    url = "https://github.com/JuliaBinaryWrappers/MathGL_jll.jl/releases/download/MathGL-v2.4.4+0/MathGL.v2.4.4.x86_64-linux-gnu-cxx03.tar.gz"
+[[MathGL]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3ad6770aa84589370c25637b73adeed4489d53c9"
+libc = "glibc"
+os = "linux"
+
+    [[MathGL.download]]
+    sha256 = "49b6bcee8959f9d65b11414bf8625c03f7c42874d604086573607108ae72c1c4"
+    url = "https://github.com/JuliaBinaryWrappers/MathGL_jll.jl/releases/download/MathGL-v2.4.4+0/MathGL.v2.4.4.x86_64-linux-gnu-cxx11.tar.gz"
+[[MathGL]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "916bef231ab4271d74cf894d09f38b4a579f43d6"
+os = "windows"
+
+    [[MathGL.download]]
+    sha256 = "0f0b333600dbb68173d9e3a8fd4ef63363ca56cf9f8a390b974f3738a2f10bdf"
+    url = "https://github.com/JuliaBinaryWrappers/MathGL_jll.jl/releases/download/MathGL-v2.4.4+0/MathGL.v2.4.4.x86_64-w64-mingw32-cxx03.tar.gz"
+[[MathGL]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3a5a6f3f78868114f8b7879daa86b8b5cf45288b"
+os = "windows"
+
+    [[MathGL.download]]
+    sha256 = "0ebdbfb57be55e6437cf370fe5ddfb874724e6e2f8c25be484cb5a36cefb349f"
+    url = "https://github.com/JuliaBinaryWrappers/MathGL_jll.jl/releases/download/MathGL-v2.4.4+0/MathGL.v2.4.4.x86_64-w64-mingw32-cxx11.tar.gz"
