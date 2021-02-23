@@ -1,6 +1,6 @@
 name = "MathGL_jll"
 uuid = "6834ddeb-87f2-5bbb-bfa4-c37572f854d4"
-version = "2.4.4+0"
+version = "2.4.4+1"
 
 [deps]
 Qt_jll = "ede63266-ebff-546c-83e0-1c6fb6d0efc8"
@@ -14,5 +14,5 @@ Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
 Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 
 [compat]
-JLLWrappers = "1.1.0"
+JLLWrappers = "1.2.0"
 julia = "1.0"
